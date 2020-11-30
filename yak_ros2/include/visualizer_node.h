@@ -23,11 +23,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#ifndef YAK_ROS_VISUALIZER_ROS1_H
-#define YAK_ROS_VISUALIZER_ROS1_H
+#ifndef YAK_ROS_VISUALIZER_H
+#define YAK_ROS_VISUALIZER_H
 
-#include <ros/ros.h>
-#include <ros/timer.h>
+#include <rcl/rcl.h>
+#include <rcl/timer.h>
 
 namespace yak_ros
 {

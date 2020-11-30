@@ -26,7 +26,7 @@
 #ifndef YAK_ROS_UTILS_H
 #define YAK_ROS_UTILS_H
 #include <yak/kfusion/kinfu.hpp>
-#include <yak_ros_msgs/UpdateKinFuParamsRequest.h>
+#include <yak_ros2_msgs/UpdateKinFuParamsRequest.h>
 
 namespace yak_ros
 {

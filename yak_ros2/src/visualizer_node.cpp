@@ -1,4 +1,4 @@
-#include <yak_ros/visualizer_node.h>
+#include <visualizer_node.h>
 #include <visualization_msgs/Marker.h>
 #include <functional>
 
